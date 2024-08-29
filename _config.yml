@@ -1,7 +1,7 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
+title: Katherine Blog 2025
+description: "Class of 2027"
+owner_name: Katherine Chen
+github_username: kchen_8478
 github_repo: "student_2025" 
 baseurl: "/katherine_2025"
 future: true
@@ -12,7 +12,7 @@ minima:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
-# remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0

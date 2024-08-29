@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Creator of Student 2025
+Creator of this page
+
+Katherine Chen - Class of 2027
