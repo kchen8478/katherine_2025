@@ -1,0 +1,10 @@
+---
+layout: post
+title: GitHub Pages playground 
+description: Objective is to be able to work fully with Notebooks, Submenus, and Anatomy to create your own personal interest blog.
+categories: [Github playground]
+permalink: /github/pages/hacks
+menu: nav/githubpages.html
+toc: true
+comments: true
+---
