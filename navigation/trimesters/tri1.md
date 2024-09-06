@@ -6,9 +6,28 @@ search_exclude: true
 menu: /nav/home.html
 ---
 
-# hello
+<html>
+<hr class="gradient">
+</html>
 
-## button
+<style>
+hr.gradient {
+  height: 3px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(
+    90deg,
+    rgba(13, 8, 96, 1) 0%,
+    rgba(9, 9, 121, 1) 21%,
+    rgba(6, 84, 170, 1) 51%,
+    rgba(0, 255, 113, 1) 100%
+  );
+}
+</style>
+
+<p> </p>
+
+# Frontend Development (Button)
 <div>
     <p> Coding, also known as programming, is the process of writing instructions for computers to follow. These instructions, or programs, tell computers what to do, such as build websites and apps, analyze data, and create software. </p>
 
@@ -30,3 +49,26 @@ function myFunction() {
     <a href="https://media.licdn.com/dms/image/D4D12AQF6mW4EuB-99Q/article-cover_image-shrink_720_1280/0/1692951785182?e=2147483647&v=beta&t=I6_1-aBTAg0fihJHret-C4hRNuffBu8JyrqKfXsm74w">link2</a>
     <p>Coding tells a machine which actions to perform and how to complete tasks. Programming languages provide the rules for building websites, apps, and other computer-based technologies. Each programming language helps humans accurately communicate with machines.</p>
 </div>
+
+<html>
+<hr class="gradient">
+</html>
+
+<style>
+hr.gradient {
+  height: 3px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(
+    90deg,
+    rgba(13, 8, 96, 1) 0%,
+    rgba(9, 9, 121, 1) 21%,
+    rgba(6, 84, 170, 1) 51%,
+    rgba(0, 255, 113, 1) 100%
+  );
+}
+</style>
+
+<p> </p>
+
+# Github Pages Playground
