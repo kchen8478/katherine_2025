@@ -26,6 +26,39 @@ hr.gradient {
 </style>
 
 # Frontend Development (Button)
+<!--
+<html>
+<head>
+<style>
+div {
+  border: 1px solid #9999FF;
+  padding: 5px;
+  color: white;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="clearfix">
+  <button onclick="myFunction()">:D</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "D:";
+}
+</script>
+Coding, also known as programming, is the process of writing instructions for computers to follow. These instructions, or programs, tell computers what to do, such as build websites and apps, analyze data, and create software.
+</div>
+
+</body>
+</html> -->
 <html>
 <head>
 <style>
