@@ -6,9 +6,6 @@ search_exclude: true
 menu: /nav/home.html
 ---
 
-# hello tri2
-
-
 <html>
 <head>
 <style>
@@ -56,12 +53,12 @@ p.mix {border-style: dotted dashed solid double;}
 
 
 
-
-
+<!--
 <div>
-    <p> Coding, also known as programming, is the process of writing instructions for computers to follow. These instructions, or programs, tell computers what to do, such as build websites and apps, analyze data, and create software. </p>
+    <p> Coding, also known as programming, is the process of writing instructions for computers to follow. These instructions, or programs, tell computers what to do, such as build websites and apps, analyze data, and create software. </p> -->
 
 <!-- button -->
+<!--
 <button onclick="myFunction()">:D</button>
 
 <p id="demo"></p>
@@ -79,3 +76,4 @@ function myFunction() {
     <a href="https://media.licdn.com/dms/image/D4D12AQF6mW4EuB-99Q/article-cover_image-shrink_720_1280/0/1692951785182?e=2147483647&v=beta&t=I6_1-aBTAg0fihJHret-C4hRNuffBu8JyrqKfXsm74w">link2</a>
     <p>Coding tells a machine which actions to perform and how to complete tasks. Programming languages provide the rules for building websites, apps, and other computer-based technologies. Each programming language helps humans accurately communicate with machines.</p>
 </div>
+-->
