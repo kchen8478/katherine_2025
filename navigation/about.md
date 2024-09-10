@@ -26,6 +26,24 @@ permalink: /about/
 <p></p>
 
 > I am involved in several school clubs and outside organizations. I'm part of Team Optix and Stickers for Charity, as well as being a board editor for Featheralist. I tutor middle school students outside of school and I am the Head of Graphic Design and Marketing for NexStudent Network!
+<p></p>
+
+#### I visited the Antelope Canyon, Grand Canyon, and the beach this summer!
+<style>
+p.text {
+color: orange;
+font-family: "Times New Roman";
+}
+</style>
+
+<body>
+<p class="text">
+Antelope Canyon
+<img src="{{site.baseurl}}/images/antelopecanyon.png"> 
+Beach
+<img src="{{site.baseurl}}/images/beach.png"> 
+Grand Canyon
+<img src="{{site.baseurl}}/images/grandcanyon.png"> 
 
 <!-- Use this script to add comments to your blog posts manually -->
 <script src="https://utteranc.es/client.js"
