@@ -119,3 +119,4 @@ hr.gradient {
 <!-- <p>Make a copy of the Github Pages Notebook folder, then create a nav/github_pages.html, then link it to an md file</p> -->
 
 {%include nav/github_pages.html %} 
+{%github_playground.html%}
