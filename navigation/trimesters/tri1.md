@@ -70,14 +70,33 @@ p.solid {border-style: solid;}
 <p class="solid">
 Coding, also known as programming, is the process of writing instructions for computers to follow. These instructions, or programs, tell computers what to do, such as build websites and apps, analyze data, and create software. 
 <br>
+<!-- button w link -->
+
+ <button
+    class="GFG"
+    onclick="window.location.href = 'https://i.ytimg.com/vi/ciWoqQb6FWg/maxresdefault.jpg';"
+    >
+    :D
+</button>
+<style>
+    .GFG {
+      background-color: white;
+      border: 2px solid teal;
+      color: teal;
+      padding: 3px 7px;
+      cursor: pointer;
+      }
+</style>
+
+<br>
+<!-- button w/o link -->
+
 <button onclick="myFunction()">:D</button>
-
 <p id="demo"></p>
-
 <script>
-function myFunction() {
+ function myFunction() {
   document.getElementById("demo").innerHTML = "D:";
-}
+ }
 </script>
 </p>
 </body>
@@ -119,4 +138,3 @@ hr.gradient {
 <!-- <p>Make a copy of the Github Pages Notebook folder, then create a nav/github_pages.html, then link it to an md file</p> -->
 
 {%include nav/github_pages.html %} 
-{%github_playground.html%}
