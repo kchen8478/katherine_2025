@@ -91,7 +91,7 @@ Coding, also known as programming, is the process of writing instructions for co
 <br>
 <!-- button w/o link -->
 
-<button onclick="myFunction()">:D</button>
+<!-- <button onclick="myFunction()">:D</button> 
 <p id="demo"></p>
 <script>
  function myFunction() {
@@ -99,7 +99,7 @@ Coding, also known as programming, is the process of writing instructions for co
  }
 </script>
 </p>
-</body>
+</body> -->
 
 <body>
 <p class="solid">
@@ -110,7 +110,7 @@ Coding, also known as programming, is the process of writing instructions for co
     Coding tells a machine which actions to perform and how to complete tasks. Programming languages provide the rules for building websites, apps, and other computer-based technologies. Each programming language helps humans accurately communicate with machines.
 </p>
 </body>
-</html>
+</html> 
 
 <!-- GRADIENT LINE -->
 <html>
