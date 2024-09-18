@@ -25,6 +25,30 @@ hr.gradient {
 }
 </style>
 
+# Javascript Playground
+{%include nav/javascript_pages.html %} 
+
+
+<!-- GRADIENT LINE -->
+<html>
+<hr class="gradient">
+</html>
+
+<style>
+hr.gradient {
+  height: 3px;
+  border: none;
+  border-radius: 6px;
+  background: linear-gradient(
+    90deg,
+    rgba(13, 8, 96, 1) 0%,
+    rgba(9, 9, 121, 1) 21%,
+    rgba(6, 84, 170, 1) 51%,
+    rgba(0, 255, 113, 1) 100%
+  );
+}
+</style>
+
 # Frontend Development (Button)
 <!--
 <html>
@@ -72,7 +96,7 @@ Coding, also known as programming, is the process of writing instructions for co
 <br>
 <!-- button w link -->
 
- <button
+<button
     class="GFG"
     onclick="window.location.href = 'https://i.ytimg.com/vi/ciWoqQb6FWg/maxresdefault.jpg';"
     >
@@ -98,8 +122,8 @@ Coding, also known as programming, is the process of writing instructions for co
   document.getElementById("demo").innerHTML = "D:";
  }
 </script>
-</p>
-</body> -->
+</p> -->
+</body> 
 
 <body>
 <p class="solid">
@@ -110,7 +134,6 @@ Coding, also known as programming, is the process of writing instructions for co
     Coding tells a machine which actions to perform and how to complete tasks. Programming languages provide the rules for building websites, apps, and other computer-based technologies. Each programming language helps humans accurately communicate with machines.
 </p>
 </body>
-</html> 
 
 <!-- GRADIENT LINE -->
 <html>
@@ -134,7 +157,9 @@ hr.gradient {
 
 <p> </p>
 
-# Github Pages Playground
 <!-- <p>Make a copy of the Github Pages Notebook folder, then create a nav/github_pages.html, then link it to an md file</p> -->
 
+
+
+# Github Pages Playground
 {%include nav/github_pages.html %} 
