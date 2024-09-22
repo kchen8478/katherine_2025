@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: Katherine's Blog 2025 
 description: Home Page
 image: /images/mario_animation.png
 hide: true
