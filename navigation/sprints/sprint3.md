@@ -8,7 +8,53 @@ menu: /nav/home.html
 
 # hello
 
+### Link to flocker
+### Link to issue
 
+Capture memories as we go.
+Big Idea 1.1 Collaboration
+- Explain how computing innovations are improved through collaboration
+  - Effective collaboration produces a computing innovation that reflects the diversity and talents of those who designed it.
+  - Collaboration that includes diverse perspectives helps avoid bias during development.
+- Explain how computing innovations are improved through collaboration.
+  - Think-Pair-Share.  Students think through a problem alone, pair with a partner to share ideas, and then share results with class..
+  - Two programmers work as a pair on features and ideas.
+  - Online tools to support collaboration (ie Slack), allowing developers to provide feedback and share ideas
+- Demonstrate effective interpersonal skills during collaboration.
+  - Communication
+  - Consensus Building
+  - Conflict Resolution
+  - Negotiation
+Big Idea 1.2 Program Function and Purpose
+- Describe the purpose of a computing innovation.  
+  - Be sure you can describe the purpose of flocker
+  - What category of innovation is this?  (social media). 
+  - What other categories.
+- How does understanding the innovation improve the ability to develop?  Here are some considerations.
+  - Identify inputs and type (ie keyboard, touch, camera)
+  - Events that are generated from inputs
+  - Outputs generated from inputs or events
+  - User interface design
+  - User experience design
+- Coding knowledge
+  - Explain coding in terms of code segment and functions
+  - The behavior of program and how it behaves during execution
+    - Explain frontend coding - how code is organized and runs (inputs and events)
+    - Explain backend coding - how it is distinct from frontend (algorithms and storage)
+Big Idea 1.3  Program Design and Development
+- Develop a program using a Development Process (aka Agile Scrum).  Use a process that is iterative and revision based.
+  - Investigate and reflect
+  - Design / Storyboard
+  - Prototype / Isolate your experiments
+  - Code / Organize into functions and objects
+  - Test, Test, Test / Automate test cases
+  - Repeat
+- Design a program and its User Interface.
+  - Describe how program will behave
+  - Include list of user interactions
+
+
+<!--
 <html>
 <head>
 <style>
@@ -50,7 +96,7 @@ p.mix {border-style: dotted dashed solid double;}
 
 </body>
 </html>
-
+--!>
 
 
 

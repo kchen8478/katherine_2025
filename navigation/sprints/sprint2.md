@@ -17,8 +17,8 @@ menu: /nav/home.html
 - Our lesson when into detail about the 9 data types, and we had a mini quiz that tested each one. 
 
 # RELEVANCY
-- 3.2: Data types are present in everything, especially integars, strings, and lists. We also taught dictionaries, tuples, sets, booleans, and None. 
-- 3.1: variable and string operations (e.g. PEMDAS operations for numbers and strong concatenation)
+- 3.2: Data types are present in everything, especially integars, strings, and lists. We also taught floats, dictionaries, tuples, sets, booleans, and None. 
+- 3.1: variable and string operations (e.g. PEMDAS operations for numbers and string concatenation)
 - 3.3: mathematical operations (+-*/)
 - 3.4: string operations (slicing, string length, replacements, or joining)
 - 3.5: booleans - can be used for rational or logical operations 
