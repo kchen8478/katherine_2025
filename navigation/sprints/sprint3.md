@@ -6,12 +6,10 @@ search_exclude: true
 menu: /nav/home.html
 ---
 
-# hello
-
 ### Link to flocker
 ### Link to issue
 
-Capture memories as we go.
+## Capture memories as we go.
 Big Idea 1.1 Collaboration
 - Explain how computing innovations are improved through collaboration
   - Effective collaboration produces a computing innovation that reflects the diversity and talents of those who designed it.
@@ -53,6 +51,27 @@ Big Idea 1.3  Program Design and Development
   - Describe how program will behave
   - Include list of user interactions
 
+
+## MCQ 2018 Review
+- I learned about the structure of the APCSP MCQ, and the general types of questions that will be asked. All the code is based on psuedocode, and most questions related to correcting bugs, encryption, internet safety, and effects of coding.
+- I need to work on questions on psuedocode, and understanding how they run. I also need to review boolean expressions and comparisons using NOT, AND, OR. 
+- Corrections
+ - Q10: B, as C would be moving up and to the right.
+ - Q14: C, they both display 10 values, but the values themselves are different. 
+ - Q30: D, Analysis is called once before the loop and four times within the loop, for a total of 5 times. 
+ - Q37: C, they both return the same average, but Program 1 used more steps. 
+ - Q40: D, The average total points earned per student can be determined using the result of the total points calculation
+for each student. The average increase in total points per student as a result of the score replacement policy can be determined by
+calculating the differences between each student score before and after the replacement policy was applied. The proportion of students
+who improved their total points as a result of the score replacement policy can be determined by comparing the midterm and final scores for each student with the result of the total points calculation.
+ - Q42: D, With 32-bit addressing, IPv4 has 2^32 possible addresses. With 128-bit addressing, IPv6 has 2^128 possible addresses. Since 2 raised to the thirty second power times 2 raised to the ninety sixth power equals 2 raised to the one hundred twenty eighth power, IPv6 has 2 raised to the ninety sixth power times as many possible addresses as IPv4.
+ - Q43: A, The pattern in the table appears to indicate that there are n squared steps for a list containing n items. This number of steps is a polynomial and therefore the algorithm runs in reasonable time. 
+ - Q46: D, An undecidable problem is one in which no algorithm can be constructed that always leads to a correct yes-or-no answer.
+ - Q47: D, In public cryptography, a message is encrypted with a recipient’s public key and decrypted with the recipient’s private key
+ - Q60: A+D, Creating a list of names is an example of a data abstraction that may make it easier for a programmer to manage the complexity of a program. Placing repeated code with procedure calls is an example of a procedural abstraction that may make it easier for a programmer to manage the complexity of a program.
+
+ ## Sprint 3 Reflection
+ - I collaborated with my team members, working on frontend and backend. As the integrater, I would transfer our code onto the fork, and ensure there were no bugs, the path was correct, etc. Our team worked together in class to make sure our components worked, and fixed any problems, while outside of class we would continue working on specific components. 
 
 <!--
 <html>
