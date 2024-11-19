@@ -6,8 +6,8 @@ search_exclude: true
 menu: /nav/home.html
 ---
 
-### Link to flocker
-### Link to issue
+### [P1 Brown's Class Site](https://gavincopley.github.io/flocker_frontend/)
+### [Issue](https://github.com/SoniDhenuva/soni_2025/issues/10#issue-2605933584)
 
 ## Capture memories as we go.
 Big Idea 1.1 Collaboration
@@ -70,8 +70,10 @@ who improved their total points as a result of the score replacement policy can 
  - Q47: D, In public cryptography, a message is encrypted with a recipient’s public key and decrypted with the recipient’s private key
  - Q60: A+D, Creating a list of names is an example of a data abstraction that may make it easier for a programmer to manage the complexity of a program. Placing repeated code with procedure calls is an example of a procedural abstraction that may make it easier for a programmer to manage the complexity of a program.
 
- ## Sprint 3 Reflection
+
+## Sprint 3 Reflection
  - I collaborated with my team members, working on frontend and backend. As the integrater, I would transfer our code onto the fork, and ensure there were no bugs, the path was correct, etc. Our team worked together in class to make sure our components worked, and fixed any problems, while outside of class we would continue working on specific components. 
+ - I learned about the difference between backend storage and local storage, and what that looks like on a webpage. Some improvements to make includes readability of the code, which is currently unorganized. Additionally, making our social media site neater and more visual appealing is something to look into. In terms of team performance, we could have worked better on time management and spliting up the tasks, which would have allowed for more time to fix small bugs and imcorporate mmore elements. 
 
 <!--
 <html>
