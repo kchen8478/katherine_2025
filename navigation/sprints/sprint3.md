@@ -9,22 +9,12 @@ menu: /nav/home.html
 ### [P1 Brown's Class Site](https://gavincopley.github.io/flocker_frontend/)
 ### [Issue](https://github.com/SoniDhenuva/soni_2025/issues/10#issue-2605933584)
 
-## Capture memories as we go.
-Big Idea 1.1 Collaboration
-- Explain how computing innovations are improved through collaboration
-  - Effective collaboration produces a computing innovation that reflects the diversity and talents of those who designed it.
-  - Collaboration that includes diverse perspectives helps avoid bias during development.
-- Explain how computing innovations are improved through collaboration.
-  - Think-Pair-Share.  Students think through a problem alone, pair with a partner to share ideas, and then share results with class..
-  - Two programmers work as a pair on features and ideas.
-  - Online tools to support collaboration (ie Slack), allowing developers to provide feedback and share ideas
-- Demonstrate effective interpersonal skills during collaboration.
-  - Communication
-  - Consensus Building
-  - Conflict Resolution
-  - Negotiation
-Big Idea 1.2 Program Function and Purpose
-- Describe the purpose of a computing innovation.  
+<!-- ## Big Ideas
+### Big Idea 1.1 Collaboration
+- Through collaboration, our team was able to share ideas and offer input when fixing bugs. We were able to not only work with our 6 person team, but also with our class and other classes to improve our code and move forward.
+
+### Big Idea 1.2 Program Function and Purpose
+- The purpose of computing innovation to Describe the purpose of a computing innovation.  
   - Be sure you can describe the purpose of flocker
   - What category of innovation is this?  (social media). 
   - What other categories.
@@ -39,7 +29,8 @@ Big Idea 1.2 Program Function and Purpose
   - The behavior of program and how it behaves during execution
     - Explain frontend coding - how code is organized and runs (inputs and events)
     - Explain backend coding - how it is distinct from frontend (algorithms and storage)
-Big Idea 1.3  Program Design and Development
+    
+### Big Idea 1.3  Program Design and Development
 - Develop a program using a Development Process (aka Agile Scrum).  Use a process that is iterative and revision based.
   - Investigate and reflect
   - Design / Storyboard
@@ -49,26 +40,32 @@ Big Idea 1.3  Program Design and Development
   - Repeat
 - Design a program and its User Interface.
   - Describe how program will behave
-  - Include list of user interactions
+  - Include list of user interactions -->
 
 
 ## MCQ 2018 Review
 - I learned about the structure of the APCSP MCQ, and the general types of questions that will be asked. All the code is based on psuedocode, and most questions related to correcting bugs, encryption, internet safety, and effects of coding.
-- I need to work on questions on psuedocode, and understanding how they run. I also need to review boolean expressions and comparisons using NOT, AND, OR. 
-- Corrections
+- I reviewed my knowledge on routing, nested loops, and internet protocol. I need to work on questions on psuedocode, and understanding how they run. I also need to review boolean expressions and comparisons using NOT, AND, OR. I noticed that many of the questions I got wrong because I didn't read the questions carefully, and skipped over some information. 
+- When looking at how I performed based on the Big Ideas, I performed well in creative development and computing systems + networks, with 100% in each. However, for mpact of computing, the average performance was 91%, data was 88%, and algorithms and programming was 79%. The main topics I need to work on are binary numbers, extracting information from data, developing algorithms, developping procedures, calling procedures, algorithm efficency, and undecidable problems and safe computing. 
+- ### Corrections
  - Q10: B, as C would be moving up and to the right.
  - Q14: C, they both display 10 values, but the values themselves are different. 
  - Q30: D, Analysis is called once before the loop and four times within the loop, for a total of 5 times. 
  - Q37: C, they both return the same average, but Program 1 used more steps. 
- - Q40: D, The average total points earned per student can be determined using the result of the total points calculation
-for each student. The average increase in total points per student as a result of the score replacement policy can be determined by
-calculating the differences between each student score before and after the replacement policy was applied. The proportion of students
-who improved their total points as a result of the score replacement policy can be determined by comparing the midterm and final scores for each student with the result of the total points calculation.
+ - Q40: D, The average total points earned per student can be determined using the result of the total points calculation for each student. The average increase in total points per student as a result of the score replacement policy can be determined by calculating the differences between each student score before and after the replacement policy was applied. 
  - Q42: D, With 32-bit addressing, IPv4 has 2^32 possible addresses. With 128-bit addressing, IPv6 has 2^128 possible addresses. Since 2 raised to the thirty second power times 2 raised to the ninety sixth power equals 2 raised to the one hundred twenty eighth power, IPv6 has 2 raised to the ninety sixth power times as many possible addresses as IPv4.
  - Q43: A, The pattern in the table appears to indicate that there are n squared steps for a list containing n items. This number of steps is a polynomial and therefore the algorithm runs in reasonable time. 
  - Q46: D, An undecidable problem is one in which no algorithm can be constructed that always leads to a correct yes-or-no answer.
  - Q47: D, In public cryptography, a message is encrypted with a recipient’s public key and decrypted with the recipient’s private key
  - Q60: A+D, Creating a list of names is an example of a data abstraction that may make it easier for a programmer to manage the complexity of a program. Placing repeated code with procedure calls is an example of a procedural abstraction that may make it easier for a programmer to manage the complexity of a program.
+
+- ### Time: 1 hour 36 minutes
+- Q24 - 3 min It took a bit to understand the questions, but it was pretty straight forward. 
+- Q28 - 3 min I need to touch up on binary and how binary values work. 
+- Q29 - 4 min Booleans are a bit hard for me to understand, so I plan on studying these more. 
+- Q32 - 5 min Understand the graph took a while
+- Q40 - 5 min The question was confusing for me, so I plan to work more on these in the future. 
+- Q55 - 4 min Psuedocode is a bit hard to understand, but I need to understand more. 
 
 
 ## Sprint 3 Reflection
