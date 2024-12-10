@@ -12,7 +12,11 @@ menu: /nav/tri2.html
 
 [WEBSITE LINK]()
 
-## Sprint 4 Techtalk
-<a href="{{site.baseurl}}/_notebooks/Foundation/flask/in/jupyter/">Sprint 4 Tech Talk</a>
+## Sprint 4 Techtalks
+### 12/9
+<a href="{{site.baseurl}}/flaskinjupyter/">Flask in Jupyter</a>
+
+### 12/10
+
  
 ## Sprint 4 Reflection
