@@ -12,8 +12,11 @@ menu: /nav/tri2.html
 
 [WEBSITE LINK]()
 
-## <a href="{{site.baseurl}}//sprint4techtalk/">Sprint 4 Techtalks</a>
+## <a href="{{site.baseurl}}/sprint4techtalk/">Sprint 4 Techtalks</a>
 ### <a href="{{site.baseurl}}/flaskinjupyter/">12/9</a>
 
  
 ## Sprint 4 Reflection
+<a href="{{site.baseurl}}/notebooks/tri_2/chatroom/">Team Test Notebook</a>
+
+## [Dress the Snake Game](/navigation/snake)

@@ -9,7 +9,7 @@ hide: true
 My journey starts here.
 
 # Katherine Chen 
-# CSP Period 1
+# CSP Period 5
 
 <!-- Include submenu from _includes to top of pages -->
 <!--- Concatenation of site URL to frontmatter image  --->
