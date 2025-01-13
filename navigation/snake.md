@@ -1,117 +1,141 @@
 ---
 layout: base
 title: Snake
+permalink: /snake/
 ---
 
 <style>
+   body {
+       background-color: #002b36; /* Dark background for holiday vibe */
+       color: #ffffff;
+       font-family: "Comic Sans MS", cursive, sans-serif;
+   }
+   .wrap {
+       margin-left: auto;
+       margin-right: auto;
+   }
 
-    body{
-    }
-    .wrap{
-        margin-left: auto;
-        margin-right: auto;
-    }
+   canvas {
+       display: none;
+       border-style: solid;
+       border-width: 10px;
+       border-color: #ff0000; /* Christmas red */
+       background-color: #003300; /* Dark green background for canvas */
+   }
 
-    canvas{
-        display: none;
-        border-style: solid;
-        border-width: 10px;
-        border-color: #FFFFFF;
-    }
-    canvas:focus{
-        outline: none;
-    }
+   /* All screens style */
+   #gameover p, #setting p, #menu p {
+       font-size: 20px;
+   }
 
-    /* All screens style */
-    #gameover p, #setting p, #menu p{
-        font-size: 20px;
-    }
+   #gameover a, #setting a, #menu a {
+       font-size: 30px;
+       display: block;
+       color: #ffcc00; /* Gold text for links */
+       text-shadow: 2px 2px 5px #990000;
+   }
 
-    #gameover a, #setting a, #menu a{
-        font-size: 30px;
-        display: block;
-    }
+   #gameover a:hover, #setting a:hover, #menu a:hover {
+       cursor: pointer;
+   }
 
-    #gameover a:hover, #setting a:hover, #menu a:hover{
-        cursor: pointer;
-    }
+   #gameover a:hover::before, #setting a:hover::before, #menu a:hover::before {
+       content: "🎄"; /* Christmas tree icon before hover */
+       margin-right: 10px;
+   }
 
-    #gameover a:hover::before, #setting a:hover::before, #menu a:hover::before{
-        content: ">";
-        margin-right: 10px;
-    }
+   #menu {
+       display: block;
+   }
 
-    #menu{
-        display: block;
-    }
+   #gameover {
+       display: none;
+   }
 
-    #gameover{
-        display: none;
-    }
+   #setting {
+       display: none;
+   }
 
-    #setting{
-        display: none;
-    }
+   #setting input {
+       display: none;
+   }
 
-    #setting input{
-        display:none;
-    }
+   #setting label {
+       cursor: pointer;
+       padding: 5px 10px;
+       border-radius: 5px;
+       background-color: #cc0000; /* Red labels */
+       color: #ffffff;
+   }
 
-    #setting label{
-        cursor: pointer;
-    }
+   #setting input:checked + label {
+       background-color: #ffffff;
+       color: #000000;
+   }
 
-    #setting input:checked + label{
-        background-color: #FFF;
-        color: #000;
-    }
+   /* Holiday decorations */
+   header {
+       background-image: linear-gradient(to right, #006600, #ff0000);
+       padding: 10px;
+       border-radius: 10px;
+   }
+
+   .container {
+       background-color: #004400;
+       border: 5px solid #ffffff;
+       border-radius: 15px;
+   }
+
+   #menu p, #gameover p, #setting p {
+       font-size: 22px;
+       color: #ffcc00;
+   }
 </style>
 
-<h2>Snake</h2>
+<h2 style="text-align: center; color: #ffcc00;">🎅 Snake 🎁</h2>
 <div class="container">
-    <header class="pb-3 mb-4 border-bottom border-primary text-dark">
-        <p class="fs-4">Score: <span id="score_value">0</span></p>
-    </header>
-    <div class="container bg-secondary" style="text-align:center;">
-        <!-- Main Menu -->
-        <div id="menu" class="py-4 text-light">
-            <p>Welcome to Snake, press <span style="background-color: #FFFFFF; color: #000000">space</span> to begin</p>
-            <a id="new_game" class="link-alert">new game</a>
-            <a id="setting_menu" class="link-alert">settings</a>
-        </div>
-        <!-- Game Over -->
-        <div id="gameover" class="py-4 text-light">
-            <p>Game Over, press <span style="background-color: #FFFFFF; color: #000000">space</span> to try again</p>
-            <a id="new_game1" class="link-alert">new game</a>
-            <a id="setting_menu1" class="link-alert">settings</a>
-        </div>
-        <!-- Play Screen -->
-        <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
-        <!-- Settings Screen -->
-        <div id="setting" class="py-4 text-light">
-            <p>Settings Screen, press <span style="background-color: #FFFFFF; color: #000000">space</span> to go back to playing</p>
-            <a id="new_game2" class="link-alert">new game</a>
-            <br>
-            <p>Speed:
-                <input id="speed1" type="radio" name="speed" value="120" checked/>
-                <label for="speed1">Slow</label>
-                <input id="speed2" type="radio" name="speed" value="75"/>
-                <label for="speed2">Normal</label>
-                <input id="speed3" type="radio" name="speed" value="35"/>
-                <label for="speed3">Fast</label>
-            </p>
-            <p>Wall:
-                <input id="wallon" type="radio" name="wall" value="1" checked/>
-                <label for="wallon">On</label>
-                <input id="walloff" type="radio" name="wall" value="0"/>
-                <label for="walloff">Off</label>
-            </p>
-        </div>
-    </div>
+   <header class="pb-3 mb-4 border-bottom border-primary text-light">
+       <p class="fs-4">Score: <span id="score_value">0</span></p>
+   </header>
+   <div class="container" style="text-align:center;">
+       <!-- Main Menu -->
+       <div id="menu" class="py-4">
+           <p>Welcome to Snake, press <span style="background-color: #FFFFFF; color: #000000">space</span> to begin</p>
+           <a id="new_game" class="link-alert">🎅 New Game</a>
+           <a id="setting_menu" class="link-alert">⚙️ Settings</a>
+       </div>
+       <!-- Game Over -->
+       <div id="gameover" class="py-4">
+           <p>Game Over, press <span style="background-color: #FFFFFF; color: #000000">space</span> to try again</p>
+           <a id="new_game1" class="link-alert">🎅 New Game</a>
+           <a id="setting_menu1" class="link-alert">⚙️ Settings</a>
+       </div>
+       <!-- Play Screen -->
+       <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
+       <!-- Settings Screen -->
+       <div id="setting" class="py-4">
+           <p>Settings Screen, press <span style="background-color: #FFFFFF; color: #000000">space</span> to go back to playing</p>
+           <a id="new_game2" class="link-alert">🎅 New Game</a>
+           <br>
+           <p>Speed:
+               <input id="speed1" type="radio" name="speed" value="120" checked />
+               <label for="speed1">❄️ Slow</label>
+               <input id="speed2" type="radio" name="speed" value="75" />
+               <label for="speed2">🎁 Normal</label>
+               <input id="speed3" type="radio" name="speed" value="35" />
+               <label for="speed3">🎄 Fast</label>
+           </p>
+           <p>Wall:
+               <input id="wallon" type="radio" name="wall" value="1" checked />
+               <label for="wallon">🎅 On</label>
+               <input id="walloff" type="radio" name="wall" value="0" />
+               <label for="walloff">🎁 Off</label>
+           </p>
+       </div>
+   </div>
 </div>
-
 <script>
-    (function(){
+  (function(){
         /* Attributes of Game */
         /////////////////////////////////////////////////////////////
         // Canvas & Context
@@ -267,7 +291,7 @@ title: Snake
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
+            ctx.fillStyle = "#FFF8DC";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
