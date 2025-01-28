@@ -3,5 +3,8 @@ layout: page
 title: Sprint 5
 units: "1,2,3,4,5,6,7,8,9"
 search_exclude: true
-menu: /nav/tri1.html
+menu: /nav/tri2.html
 ---
+## Kanban Board
+## Issue
+## <a href="{{site.baseurl}}/notebooks/tri_2/fullstackcrudrev/">Review</a>
