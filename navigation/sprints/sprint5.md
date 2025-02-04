@@ -8,3 +8,4 @@ menu: /nav/tri2.html
 ## Kanban Board
 ## Issue
 ## <a href="{{site.baseurl}}/notebooks/tri_2/fullstackcrudrev/">Review</a>
+## <a href= "{{site.baseurl}}/notebooks/tri_2/deploymentblog/">Deployment Blog</a>
