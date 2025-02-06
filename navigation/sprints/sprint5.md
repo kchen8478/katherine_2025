@@ -9,3 +9,8 @@ menu: /nav/tri2.html
 ## Issue
 ## <a href="{{site.baseurl}}/notebooks/tri_2/fullstackcrudrev/">Review</a>
 ## <a href= "{{site.baseurl}}/notebooks/tri_2/deploymentblog/">Deployment Blog</a>
+
+# Collegeboard
+### <a href="{{site.baseurl}}/notebooks/tri_2/bigidea1/">Big Idea 1</a>
+### <a href="{{site.baseurl}}/notebooks/tri_2/bigidea3/">Big Idea 3</a>
+### <a href="{{site.baseurl}}/notebooks/tri_2/bigidea4/">Big Idea 4</a>
