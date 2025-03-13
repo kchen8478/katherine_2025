@@ -10,3 +10,5 @@ menu: /nav/tri3.html
 <a href="{{site.baseurl}}/notebooks/tri_3/ppr/">Personalized Project Reference</a>
 
 <a href="{{site.baseurl}}/notebooks/tri_3/cpt/">CB CPT</a>
+
+<a href="{{site.baseurl}}/notebooks/tri_3/mcq/">MCQ</a>
