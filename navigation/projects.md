@@ -14,3 +14,5 @@ Github Pages (Sprint 1)
 
 ## Tri 3
 {% include nav/tri3.html %}
+
+## <a href="{{site.baseurl}}/techtalk/">Tech Talks</a>
