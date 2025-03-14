@@ -8,3 +8,4 @@ pandas
 progress
 scikit-learn
 seaborn
+numpy
