@@ -11,3 +11,4 @@ menu: /nav/tri3.html
 
 ### <a href="{{site.baseurl}}/notebooks/tri_3/bigidea/bigideathree/">Big Idea 3</a>
 ### <a href="{{site.baseurl}}/notebooks/tri_3/bigidea/bigideafive/">Big Idea 5</a>
+### <a href="{{site.baseurl}}/excyber/">Extra Credit - Cyber Security Panel</a>
