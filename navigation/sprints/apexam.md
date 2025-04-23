@@ -9,6 +9,10 @@ menu: /nav/tri3.html
 
 <a href="{{site.baseurl}}/notebooks/tri_3/ppr/">Personalized Project Reference</a>
 
+<a href="https://docs.google.com/presentation/d/1K_BO23368YVNVn3GzGRkXFDS-DVO_EQ7wO2u_wcZRVM/edit?usp=sharing">Program Code</a>
+
+<a href="">Video</a>
+
 <a href="{{site.baseurl}}/notebooks/tri_3/cpt/">CB CPT</a>
 
 <a href="{{site.baseurl}}/notebooks/tri_3/mcq20/">MCQ 2020</a>
