@@ -11,4 +11,8 @@ menu: /nav/tri3.html
 
 <a href="{{site.baseurl}}/notebooks/tri_3/cpt/">CB CPT</a>
 
-<a href="{{site.baseurl}}/notebooks/tri_3/mcq/">MCQ</a>
+<a href="{{site.baseurl}}/notebooks/tri_3/mcq20/">MCQ 2020</a>
+
+<a href="{{site.baseurl}}/notebooks/tri_3/mcq21/">MCQ 2021</a>
+
+<a href="{{site.baseurl}}/notebooks/tri_3/studyplan/">Study Plan</a>
