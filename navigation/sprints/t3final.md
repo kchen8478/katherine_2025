@@ -50,3 +50,18 @@ Tokens (ie NFTs) represent unique achievements (non-fungible, personalized, and 
 | **Certificate**: Foundation Tools | Hands-on experience with software development tools, including version control using GitHub, efficient coding and debugging in Visual Studio Code, and navigating file systems and executing commands through the terminal. |
 | **Certificate**: Deployment | Deployed dynamic full stack applications using GitHub Pages, Cockpit, with knowledge on Docker and Nginx. Set up build environments, integrated CI/CD tools, and managed hosting for live user demos. |
 
+| **NFT**: Genescope | idk |
+
+
+		CSP: Data Analysis with Python Certificate, Deployment - Linux/Cyber concepts Certificate
+		CSA: Agile Toolkit Certificate, Blockchain Programming Certificate
+NFTs (Unique):
+		Foundation: Personalized Website NFT (unique design and implementation of GitHub Pages)
+		CSSE: Custom 2D Game NFT (game mechanics and storyline by the student)
+		CSP: Innovative Cybersecurity Tool NFT (unique security application or script)
+		CSA: Advanced Blockchain App NFT (custom blockchain project using Python or Java)
+
+
+
+Improvements:
+- fix broken link, combine all the irrelavent gd and photo stuff, fix readme, make blogs for everything and add links like for photo/gd/business journey, add a journey blog for genescope like the first steps, mistakes, how i went through things, add courses under school, touch up the description of katherine-2025 on github profile, change hard/soft skills to software skills and business/communication skills,
