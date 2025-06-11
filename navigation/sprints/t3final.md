@@ -36,6 +36,7 @@ Our group presented Genescope, the project we developed for the Open Coding Soci
 
 # Statistics
 ***Dashboard
+
 ***[Github Profile ](https://github.com/kchen8478)
 - [Extra](https://github.com/kchen8478/katherine_2025/issues/14)
 
@@ -48,3 +49,4 @@ Tokens (ie NFTs) represent unique achievements (non-fungible, personalized, and 
 |-------------|------------------------------|
 | **Certificate**: Foundation Tools | Hands-on experience with software development tools, including version control using GitHub, efficient coding and debugging in Visual Studio Code, and navigating file systems and executing commands through the terminal. |
 | **Certificate**: Deployment | Deployed dynamic full stack applications using GitHub Pages, Cockpit, with knowledge on Docker and Nginx. Set up build environments, integrated CI/CD tools, and managed hosting for live user demos. |
+
