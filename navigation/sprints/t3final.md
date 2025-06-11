@@ -7,54 +7,44 @@ menu: /nav/tri3.html
 ---
 
 
-LinkedIn. Introduction of Key Interests and how Coding intersects with those interests
-LinkedIn. highlight your Favorite project(s)
-Blog. Overview of Projects from Blog. Highlight your Unique qualities.
-Blog. Certification of  Homework Success with the year long lessons.
-Blog. Describe how you have showcased projects (ie N@tM June 2025)
-Stats. Show methodologies and artifacts showing your participation (Issues, PRs, Commits).  Suggest using the below dashboard.
-Try out the grade predictor.
 
-Final Reflection
-reflection on CSP, What I learned, and key takeaways
+# Future Steps:
+Intended Major = Aerospace Engineer, Possible Minor in Business Management and Administration
 
-Jun 5, 2025 • 1 min read
+I intend to take apply for engineering targeted internships next year and get more experience within business and management through extracurriculars. 
 
-My Future After CSP
-Intended major = Computer science
-Future Steps
-
-I intend to take AP CSA next year and look into summer programs like pilot city and other programs to grow my programming skills
-
-Skills
-
+# Skills
 Im going to utalize my skills (listed below) to grow my connections and get into more interships and programs.
 
-Soft Skills
-Communication/Collaberation (working in a big team)
-Time managment (meeting deadlines for projects/checkpoints)
-Leadership (assistent scrum master of both projects)
-Hard Skills
-Programming languages (Python, javascript, and styling)
-AP test consepts (Big ideas 1-5)
-full stack development (connecting frontend to backend and deploying)
-Main Projects
-Holiday Giftinator <– LINK
+### Soft Skills
+- Communication/Collaberation (working in a big team)
+- Time managment (meeting deadlines for projects/checkpoints)
+- Project management (contributed equally between members for all aspects)
 
-Genescope <– LINK
+### Hard Skills
+- Programming languages (Python, JS, and styling)
+- AP test concepts (Big ideas 1-5)
+- Full Stack development (connecting frontend to backend and deploying)
 
-Linkden Page
-Linkden <– LINK
+# Homework Success: 
+{%include nav/bigideas_three.html %} 
+<a href="{{site.baseurl}}/notebooks/tri_3/bigidea/bigideathree/">Big Idea 3</a>
+<a href="{{site.baseurl}}/notebooks/tri_3/bigidea/bigideafive/">Big Idea 5</a>
 
-Resume (also linked onto my linkden)
-resume <– LINK
+# N@TM:
+Our group presented Genescope, the project we developed for the Open Coding Society and PilotCity. We began with an overview of our target audience and the purpose behind the platform, highlighting our mission to educate users about biotechnology through interactive learning. We walked the audience through key features—including a functional voice chat, biotech news updates, and interactive games. Attendees were invited to explore the platform firsthand, and we gathered valuable feedback as they engaged with the different components of our site.
 
+# Statistics
+***Dashboard
+***[Github Profile ](https://github.com/kchen8478)
+- [Extra](https://github.com/kchen8478/katherine_2025/issues/14)
 
-# CSP
-Over the course of this year, I learned a lot. I already had a background in SQL, Python, and AWS, but I got to go deeper into it. I also learned about Javascript, which was new to me, and styling frontend. I also learned how API's worked and I learned how to build a functional website. I was able to create multiple projects, and each time I did it I improved. My first project contained no backend and I wasn't really sure how it worked. Second tri, I worked on the Bookworms project, which was a vast improvement. I learned about how deployment works and I also learned how to work with API's. Not only did I improve in programming, I also learned soft skills and what it meant to be on a team. My teamwork skills weren't as strong, but after I gained feedback, I was able to improve my communication. Overall, I learned a lot this trimester, and my personal blog reflects all the work that I've done over the years.
-# Guide to my Blog
-The homepage shows my personal contact information and stuff about me. Below, I've included buttons that lead to pages, and each page is organized. All my college board work is in one page, all my work for CSP including reflections and code is in another, and pages that I created at the beginning of the year about my interests are on another. These pages include buttons that take you to different things I've created. The navigation contains tools and blogs, where I've placed my documentation.
-# My favorite Project
-My favorite project that I've worked on this year was Genescope. It's a website designed for people to learn about DNA and biotechnology in a fun, interactive way. It has multiple games, simulations, and quizzes that allow users to learn. It's my favorite because it works the best, and my best work is shown on there. I can see my improvement from my last project, Bookworms, and the features and capabilities I've shown on it. I also liked it because I worked on it with my team more effectively than before, and I've truly learned what it means to work together as a team. I was also able to showcase this at N@TM, and have parents and peers get to see what I've worked on, and I was able to post about it on Linkedin.
-# N@TM June 2025:
-Our group presented Genescope, the project we've been working on for Open Coding Society and Pilot City. We started with an overview of who our project was for and what purpose it served, and we showed them our about us mission, where we planned to teach users about biotech. We then showed them our features such as voice chat or news, which are functional features. We also let them try out a few of the games we had, and collected feedback as they were interacting with them.
+# Credentials
+
+Certificates represent foundational skills (fungible, standardized, and repeatable).
+Tokens (ie NFTs) represent unique achievements (non-fungible, personalized, and creative).
+
+| Skill Type  | Details |
+|-------------|------------------------------|
+| **Certificate**: Foundation Tools | Hands-on experience with software development tools, including version control using GitHub, efficient coding and debugging in Visual Studio Code, and navigating file systems and executing commands through the terminal. |
+| **Certificate**: Deployment | Deployed dynamic full stack applications using GitHub Pages, Cockpit, with knowledge on Docker and Nginx. Set up build environments, integrated CI/CD tools, and managed hosting for live user demos. |
